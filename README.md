@@ -9,7 +9,7 @@ Take Test code paramaters in MS SQL such as
 #
 ###### DECLARE  
 ###### @Number int = 1,
-###### @String nvarchar(50) = 'myString'
+###### @String nvarchar(50) = "myString"
 #
 And displays an output of 
 #
